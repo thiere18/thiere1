@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiere18)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/thiere18/thiere18/blob/main/images/stat.svg" alt="Alternative Text"/>
