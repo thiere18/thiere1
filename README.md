@@ -14,18 +14,15 @@
 
 <br/>
 <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thiere18&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p align="left">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiere18&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiere18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-<p/> 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiere18&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <!-- <img src="https://github.com/thiere18/thiere18/blob/main/images/stat.svg" alt="My Stats"/>
   -->
 
    <br/>
-  <a href="https://github.com/thiere18/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiere18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <p> <a href="https://github.com/thiere18/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiere18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
