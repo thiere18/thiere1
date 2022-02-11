@@ -16,7 +16,6 @@
 <br/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiere18&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <!-- <img src="https://github.com/thiere18/thiere18/blob/main/images/stat.svg" alt="My Stats"/>
   -->
 
