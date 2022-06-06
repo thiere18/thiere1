@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## 🙋‍♂️ About M e
-## 📊 My Github Stats
+## 🙋‍♂️ About Me
+## 📊 My Github Sts
 
 
   <br/>
