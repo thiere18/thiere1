@@ -13,7 +13,6 @@
 
 
 <br/>
-<br/>
 
 
 <!-- <img src="https://github.com/thiere18/thiere18/blob/main/images/stat.svg" alt="My Stats"/>
